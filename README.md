@@ -6,7 +6,7 @@
 
 ## 在线试玩
 
-👉 **https://example.github.io/html-tank-battle/**
+👉 **https://xiyanwulu.github.io/tank/**
 
 （本地直接打开 `index.html` 也可以，不需要起服务器。）
 
